@@ -6,4 +6,8 @@
 4. To add a wall press "a" to turn on adding walls then drag and release.
 5. To remove a wall press "r" then click on a wall.
 6. To add an item/enemy press the associated button then click where you want to place them. "g" for ghost, "p" for pellet, "f" for fruit.
-![3F228358-AA93-47B9-976A-F737CF3F16C6](https://github.com/user-attachments/assets/12d39597-6928-4b39-8b98-102a00735521)
+
+
+
+https://github.com/user-attachments/assets/0d9d64d7-02d0-4f9e-baee-6a03d0e9ce73
+
